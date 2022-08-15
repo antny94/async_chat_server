@@ -6,7 +6,6 @@ namespace async_chat_server
 {
     internal class Program
     {
-        //private static List<Task> _clientListeners = new List<Task>();
         private static readonly ushort char_limit = 1024;
         private static byte[] _buffer = new byte[char_limit];
         private static List<Task> _clientListener = new List<Task>();
