@@ -1,0 +1,15 @@
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\bin\Debug\net6.0\async_chat_server.exe
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\bin\Debug\net6.0\async_chat_server.deps.json
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\bin\Debug\net6.0\async_chat_server.runtimeconfig.json
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\bin\Debug\net6.0\async_chat_server.dll
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\bin\Debug\net6.0\async_chat_server.pdb
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\obj\Debug\net6.0\async_chat_server.csproj.AssemblyReference.cache
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\obj\Debug\net6.0\async_chat_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\obj\Debug\net6.0\async_chat_server.AssemblyInfoInputs.cache
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\obj\Debug\net6.0\async_chat_server.AssemblyInfo.cs
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\obj\Debug\net6.0\async_chat_server.csproj.CoreCompileInputs.cache
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\obj\Debug\net6.0\async_chat_server.dll
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\obj\Debug\net6.0\refint\async_chat_server.dll
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\obj\Debug\net6.0\async_chat_server.pdb
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\obj\Debug\net6.0\async_chat_server.genruntimeconfig.cache
+C:\Users\puuv4\source\repos\async_chat_server\async_chat_server\obj\Debug\net6.0\ref\async_chat_server.dll
